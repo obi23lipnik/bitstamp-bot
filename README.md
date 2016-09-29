@@ -1,2 +1,4 @@
 Bitstamp Bot
 ============
+By Obi
+------
