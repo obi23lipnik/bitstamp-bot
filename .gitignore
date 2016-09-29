@@ -36,7 +36,7 @@ Icon?
 Thumbs.db
 
 # virtualenv generated files #
-######################
+##############################
 Scripts
 Lib
 Include
@@ -52,7 +52,7 @@ env
 *.bat
 
 # Sandbox #
-#################
+###########
 test.py
 testconfig.py
 test.json
