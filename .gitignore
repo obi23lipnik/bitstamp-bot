@@ -58,3 +58,6 @@ testconfig.py
 test.json
 test.ini
 
+# Sensitive configs #
+#####################
+bot/bitstampApi/config.py
